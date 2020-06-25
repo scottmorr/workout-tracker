@@ -24,14 +24,11 @@ WorkoutSchema.methods.coolifier = function() {
     this.day = `${this.day}...wokout completed!`;
     return this.day;
 };
-
 WorkoutSchema.methods.coolifier = function () {
     this.exercises = `${this.exercies}...are all done`;
     return this.exercises;
 }
-
 const Workout = mongoose.model("Workout", WorkoutSchema);
-
 module.exports = Workout;
 
 
