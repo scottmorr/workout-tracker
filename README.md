@@ -7,3 +7,6 @@ Below is the area of the tracker where you can choose to create or continue a wo
 
 Primary technologies used for this project were...Express, Mongoose. Below is an image where thue user can track workouts created.
 ![fitnessttacker2](https://user-images.githubusercontent.com/61360215/86074892-0012dc80-ba44-11ea-8b26-172d439d6025.jpg)
+
+
+Finally, workout-tracker allows the user to see how much they excercise each day!  
