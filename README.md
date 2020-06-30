@@ -9,4 +9,5 @@ Primary technologies used for this project were...Express, Mongoose. Below is an
 ![fitnessttacker2](https://user-images.githubusercontent.com/61360215/86074892-0012dc80-ba44-11ea-8b26-172d439d6025.jpg)
 
 
-Finally, workout-tracker allows the user to see how much they excercise each day!  
+Another great feature is that workout-tracker allows the user to see how much they excercise each day!  
+![fitnesstracker3](https://user-images.githubusercontent.com/61360215/86074902-03a66380-ba44-11ea-8eea-d2e1758c1a71.jpg)
